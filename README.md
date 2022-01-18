@@ -1,4 +1,4 @@
-# McM_slicing_configuration
+# McP_slicing_configuration
 
 This is a set of configuration profiles for slicing designs to be printed on the Marietta College Physics 3d printers.
 
