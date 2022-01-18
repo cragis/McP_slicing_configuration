@@ -12,6 +12,6 @@ Instuctions:
   You may need to download the whole archive as a zip and extract.
   
   
-2.  Open PrusaSlicer and "import config bundle".
+2. Open PrusaSlicer and "import config bundle".  Choose the downloaded "McP_config_bundle.ini" 
 
 Use with care.
