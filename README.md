@@ -7,7 +7,11 @@ Use PrusaSlicer to perform slicing. Here is the link to download the slicer: htt
 Instuctions: 
 
 1. Download the .ini file
+
+
   You may need to download the whole archive as a zip and extract.
-3.  Open PrusaSlicer and "import config bundle".
+  
+  
+2.  Open PrusaSlicer and "import config bundle".
 
 Use with care.
